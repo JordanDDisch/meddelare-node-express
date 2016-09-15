@@ -14,7 +14,7 @@
     "dependencies": {
         "express": "^4.0.0",
         "extend": "^3.0.0",
-        "meddelare-counters": "^1.0.0"
+        "meddelare-counters": "git@github.com:JordanDDisch/meddelare-node-counters.git"
     },
     "devDependencies": {
         "eslint": "^0.23.0",
